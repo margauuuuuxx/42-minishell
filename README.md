@@ -2,7 +2,7 @@
 
 A simplified shell implementation in C that recreates basic bash functionality, featuring command parsing, execution, and built-in commands with an Abstract Syntax Tree (AST) approach.
 
-
+Project made in collaboration with my fellow 42 student and friend: Quentin Alpesse (@QuintusAlp)
 
 ## 🔍 About
 
